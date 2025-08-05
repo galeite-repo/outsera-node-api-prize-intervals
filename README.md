@@ -10,13 +10,13 @@ Ela lê um arquivo CSV com dados de filmes e disponibiliza endpoints para:
 
 ## Tecnologias Utilizadas
 
-- **Node.js** - Ambiente de execução JavaScript
-- **TypeScript** - Tipagem estática
-- **Express** - Framework HTTP
-- **Sequelize** - ORM para abstração do banco
-- **SQLite** - Banco de dados relacional leve
-- **csv-parser** - Leitura de arquivos CSV
-- **Jest** + **Supertest** Testes
+- **Node.js**
+- **TypeScript**
+- **Express**
+- **Sequelize**
+- **SQLite**
+- **csv-parser**
+- **Jest** + **Supertest**
 
 ---
 
