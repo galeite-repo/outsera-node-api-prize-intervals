@@ -1,6 +1,7 @@
 # Pior Filme do Golden Raspberry Awards
 
-Esta API foi desenvolvida em **Node.js** + **TypeScript**, utilizando **Express**, **Sequelize** e **SQLite**.  
+API RESTful para possibilitar a leitura da lista de indicados e vencedores da
+categoria Pior Filme do Golden Raspberry Awards. 
 Ela lê um arquivo CSV com dados de filmes e disponibiliza endpoints para:
 
 - Listar todos os filmes.
