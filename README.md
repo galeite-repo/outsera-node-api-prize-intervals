@@ -26,7 +26,7 @@ Ela lê um arquivo CSV com dados de filmes e disponibiliza endpoints para:
 1. **Clone o repositório**
 ```bash
 git clone https://github.com/galeite-repo/outsera-node-api-prize-intervals.git
-cd seu-repositorio
+cd outsera-node-api-prize-intervals
 ```
 
 2. **Instale as dependências**
@@ -75,7 +75,7 @@ npm run start:dev
 ---
 
 ### Intervalo de prêmios por produtor
-**GET** `/producers/award-intervals`
+**GET** `/producers/prize-intervals`
 
 **Resposta:**
 ```json
