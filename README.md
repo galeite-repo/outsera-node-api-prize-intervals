@@ -16,7 +16,7 @@ Ela lê um arquivo CSV com dados de filmes e disponibiliza endpoints para:
 - **Sequelize** - ORM para abstração do banco
 - **SQLite** - Banco de dados relacional leve
 - **csv-parser** - Leitura de arquivos CSV
-- **Jest** + **Supertest** (para testes de integração)
+- **Jest** + **Supertest** Testes
 
 ---
 
@@ -25,7 +25,7 @@ Ela lê um arquivo CSV com dados de filmes e disponibiliza endpoints para:
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/seu-usuario/outsera-node-api-prize-intervals.git
 cd seu-repositorio
 ```
 
